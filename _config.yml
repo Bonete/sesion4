@@ -28,7 +28,7 @@ twitter_username: XexuBonete
 github_username:  Bonete.github.io
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minimal
 plugins:
   - jekyll-feed
 
