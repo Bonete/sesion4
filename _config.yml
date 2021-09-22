@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   El mejor repositorio de todo Internet.
 baseurl: "/sesion4" # the subpath of your site, e.g. /blog
 url: "https://bonete.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @XexuBonete
+twitter_username: XexuBonete
 github_username:  Bonete.github.io
 
 # Build settings
